@@ -17,7 +17,7 @@ const data = [
             "Add the salmon, garlic, and pine nuts to the dish.",
             "Bake for 15 minutes.",
             "Add the yellow squash and put back in the oven for 30 mins.",
-            "Remove from oven and let cool for 15 minutes. Add the lettuce and serve."
+            "Remove from oven and let cool for 10-15 minutes. Add the lettuce and serve."
         ]
     },
     {
